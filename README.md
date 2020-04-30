@@ -4,10 +4,11 @@
 
 
 1. `django` used for creating project.
-2. `autopep8` used for style guide.
-3. `black` used for formatting.
-4. `pylint` used for linting .
-5. `rope` used for refactoring .
+2. `djangorestframework` used for rest-api.
+3. `autopep8` used for style guide.
+4. `black` used for formatting.
+5. `pylint` used for linting .
+6. `rope` used for refactoring .
 
 ### Details
 
